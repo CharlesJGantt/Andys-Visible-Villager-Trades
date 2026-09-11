@@ -8,4 +8,4 @@
 - Ships as one `.mcaddon` with reciprocal linked Behavior and Resource Packs.
 - Includes achievement-friendly declarations, Vibrant Visuals support, and revised Andy-and-villager artwork.
 
-Retail qualification steps are pending before publication; see the project release checklist.
+The supplied PC captures verify the visible-trade and Villager Details interfaces. Fresh-world achievement, Realms, and dedicated-server qualification remain separate test-plan items.

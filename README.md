@@ -64,7 +64,7 @@ World settings affect the inspector and its recording categories. Future-offer v
 
 For setup, commands, limits, and troubleshooting, see the [project wiki](../../wiki).
 
-Both manifests include the add-on product declaration, use stable API modules, and require no beta APIs, experiments, cheats, or external dependencies. Retail achievement qualification is documented before release.
+Both manifests include the add-on product declaration, use stable API modules, and require no beta APIs, experiments, cheats, or external dependencies. Fresh-world achievement verification remains documented in the project test plan.
 
 ## License
 
