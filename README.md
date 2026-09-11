@@ -62,7 +62,7 @@ World operators can manage every inspector category with `AdminTradeControll` or
 
 World settings affect the inspector and its recording categories. Future-offer visibility remains active while the Resource Pack is active. The stable API cannot confirm completed transactions or recover earlier entity history, so interactions are labeled “purchase unconfirmed” and unknown history is left unknown.
 
-For setup, commands, limits, and troubleshooting, see the [project wiki](../../wiki).
+For setup, commands, limits, and troubleshooting, see the [Player Guide Wiki](https://github.com/CharlesJGantt/Andys-Visible-Villager-Trades/wiki).
 
 Both manifests include the add-on product declaration, use stable API modules, and require no beta APIs, experiments, cheats, or external dependencies. Fresh-world achievement verification remains documented in the project test plan.
 
